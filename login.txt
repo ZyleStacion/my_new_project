@@ -1,2 +1,2 @@
 console.log('some login features')
-Here is some text for Version 2
+We are now on a merged version!
